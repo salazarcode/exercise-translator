@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Gelatin",
-    "slug": "gelatin",
+    "name": "Exercise Translator",
+    "slug": "exercise-translator",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
@@ -26,7 +26,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": "Aplicación móvil de salud.",
-    "githubUrl": "https://github.com/salazarcode/gelatin_frontend.git"
+    "description": "Aplicación que traduce de ejercicios a comida y viceversa según las calorías",
+    "githubUrl": "https://github.com/salazarcode/exercise-translator.git"
   }
 }

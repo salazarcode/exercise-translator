@@ -37,8 +37,7 @@ export default class App extends React.Component {
           alignItems:"center",
           justifyContent:"center"
         }}>
-          <Text>GELATIN</Text>
-          <Text>Loading provisional</Text>
+          <Text>Traductor de ejercicios y comidas</Text>
           <Text>Cargando Recursos...</Text>
         </View>
       )
