@@ -9,15 +9,16 @@ import AppContainer from './src/navigation/Router';
 
 export default class App extends React.Component {
   state = {
-    fontLoaded: false,
+    fontLoaded: true,
   };
   async componentDidMount() {
+    /*
     await Font.loadAsync({
       'NunitoBold': require('./src/assets/fonts/Nunito-Bold.ttf'),      
       'NunitoRegular': require('./src/assets/fonts/Nunito-Regular.ttf'),
     });
 
-    this.setState({fontLoaded:true});
+    this.setState({fontLoaded:true})*/
   }
   render() {
     if(this.state.fontLoaded)

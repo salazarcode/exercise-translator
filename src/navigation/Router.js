@@ -14,7 +14,7 @@ const AppNavigator = createStackNavigator({
   ComidasHome: ComidasHome
 },
 {
-  initialRouteName: "Home"
+  initialRouteName: "ComidasHome"
 });
 
 const AppContainer = createAppContainer(AppNavigator);

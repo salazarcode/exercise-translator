@@ -1,6 +1,5 @@
 import React from 'react';
 import { StyleSheet, Text, View, TextInput, Image, Platform, KeyboardAvoidingView } from 'react-native';
-import {Button} from 'react-native-paper'
 import { connect } from 'react-redux'
 import axios from 'axios'
 
