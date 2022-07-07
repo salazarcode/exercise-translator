@@ -14,7 +14,7 @@
     "expo-facebook": "~5.0.1",
     "expo-file-system": "~5.0.1",
     "expo-font": "~5.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-with-locales-es6": "^1.0.1",
     "prop-types": "^15.7.2",
     "react": "16.8.3",
